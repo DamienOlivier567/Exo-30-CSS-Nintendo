@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+
+.menu {
+    background-color: red ;
+    font-family: 'Abel', sans-serif;
+    font-size: 9px;
+}
+#NIN{
+    display: block ;
+    width: 60px ;
+    height: 500px;
+    padding: 5px;
+    margin-top: -10px;
+    margin-bottom: 10px;
+    color: white ;
+    text-decoration: none ;
+    text-align: center ;
+    border-radius: 5px;
+    background-color: red;
+    font-size: 9px;
+    font-family: 'Abel', sans-serif;
+}
+a{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    font-family: 'Abel', sans-serif;
+}
+#Logo{
+    float: top;
+    width: 100px;
+    height: 50px;
+    text-decoration: none;
+}
+.menu {
+    background-color: red ;
+}
+.menu li {
+    display: inline-block ;
+}
+.menu a {
+    display: block ;
+    width: 60px ;
+    padding: 5px;
+    margin-bottom: 20px;
+    color: white ;
+    text-decoration: none ;
+    text-align: center ;
+    border-radius: 5px;
+    font-family: 'Abel', sans-serif;
+}
+.menu a:hover {
+    background-color: red ;
+    color: white ;
+    font-family: 'Abel', sans-serif;
+}
+#Nintendo{
+    width: 100px;
+    height: 50px;
+}
+#peuple{
+  size: 30px;
+}
+#Menutop{
+    float: right;
+    font-size: 9px;
+}
