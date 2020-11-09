@@ -5,7 +5,8 @@
     font-family: 'Abel', sans-serif;
     font-size: 9px;
 }
-#NIN{
+
+#nin{
     display: block ;
     width: 60px ;
     height: 500px;
@@ -20,24 +21,29 @@
     font-size: 9px;
     font-family: 'Abel', sans-serif;
 }
+
 a{
     text-decoration: none;
     color: white;
     text-align: center;
     font-family: 'Abel', sans-serif;
 }
+
 #Logo{
     float: top;
     width: 100px;
     height: 50px;
     text-decoration: none;
 }
+
 .menu {
     background-color: red ;
 }
+
 .menu li {
     display: inline-block ;
 }
+
 .menu a {
     display: block ;
     width: 60px ;
@@ -54,14 +60,17 @@ a{
     color: white ;
     font-family: 'Abel', sans-serif;
 }
+
 #Nintendo{
     width: 100px;
     height: 50px;
 }
+
 #peuple{
   size: 30px;
 }
-#Menutop{
+
+#menutop{
     float: right;
     font-size: 9px;
 }
